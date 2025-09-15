@@ -1,5 +1,5 @@
 General:
-A simple project designed using HTML & JS
+A personal creative project designed using HTML & JS
 
 Interactive elements:
 - hold & press on light bulb
